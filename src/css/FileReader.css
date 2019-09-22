@@ -1,0 +1,23 @@
+.files {
+    height: 100%;
+    width: 100%;
+}
+
+.files-container {
+    position: absolute;
+    margin: 0;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.title {
+    color: orange;
+    font-size: 4em;
+}
+
+.subtitle {
+    color: rgb(228, 121, 0);
+}
